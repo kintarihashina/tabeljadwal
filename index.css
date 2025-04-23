@@ -1,14 +1,42 @@
 h1 {
    color : black ;
-   font-family : cursive ;
+   font-family : courier new ;
 }
 body {
 	color : white ;
+	background-color: #FFCCCC;
 }
 th {
 	color : black ;
 	background-color : white ;
 }
+td {
+  font-family:Monospace;
+}
 img {
  Border : 3px, solid, green ;
+ margin-top :3px;
+ box-shadow: 2px 5px 8px #2E8B57;
+}
+p {
+  color : white;
+  font-family : cursive ;
+  font-weight: 900;
+  text-shadow: 2px 3px 5px #228B22;
+}
+.Course {
+  border: 3px solid #00bfff;
+  box-shadow: 2px 5px 8px #0000ad;
+}
+.Coursee {
+  text-shadow: 2px 4px 5px #0000ad;
+  font-family: cursive ;
+}
+.Jadwal {
+  font-family: Times New Roman;
+  text-shadow: 2px 4px 5px #000;
+}
+Hr {
+  height: 1px;
+  background-color: #000;
 }
