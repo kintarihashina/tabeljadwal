@@ -31,10 +31,12 @@ p {
 .Coursee {
   text-shadow: 2px 4px 5px #0000ad;
   font-family: cursive ;
+	Font-size : 20px ;
 }
 .Jadwal {
   font-family: Times New Roman;
   text-shadow: 2px 4px 5px #000;
+  Font-size : 20px ;
 }
 Hr {
   height: 1px;
