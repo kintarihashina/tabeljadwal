@@ -26,7 +26,7 @@ p {
   font-family : cursive ;
   font-weight: 900;
   text-shadow: 2px 3px 5px #228B22;
-	Font-size : 20px ;
+	Font-size : 25px ;
 }
 .Course {
   border: 3px solid #00bfff;
@@ -35,12 +35,12 @@ p {
 .Coursee {
   text-shadow: 2px 4px 5px #0000ad;
   font-family: cursive ;
-	Font-size : 20px ;
+	Font-size : 25px ;
 }
 .Jadwal {
   font-family: Times New Roman;
   text-shadow: 2px 4px 5px #000;
-  Font-size : 20px ;
+  Font-size : 25px ;
 	Align : center ;
 }
 Hr {
